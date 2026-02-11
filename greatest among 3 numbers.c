@@ -21,8 +21,5 @@ int main() {
     {
          printf("Greatest among all these integer is: %d\n", c);
     }
-    
-
-    
     return 0;
 }
