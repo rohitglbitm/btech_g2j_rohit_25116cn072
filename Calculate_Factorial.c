@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main() {
     
-    int n, i, f=1
-    ;
+    int n, i, f=1;
     
     printf("FACTORIAL CALCULATOR\n");
 
@@ -18,4 +17,5 @@ int main() {
     printf("%d", n);
     printf("!=%d", f);
     return 0;
+
 }
